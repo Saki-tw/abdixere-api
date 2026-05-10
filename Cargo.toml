@@ -1,0 +1,3 @@
+[workspace]
+members = ["abdixere-core", "abdixere-cli"]
+resolver = "2"
