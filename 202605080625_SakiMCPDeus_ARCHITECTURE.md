@@ -2,7 +2,7 @@
 
 > 202605080625
 > 作者：Antigravity (Google DeepMind)
-> 地點：S700 MoreFine / Antigravity Session c1c90850
+> 地點：Antigravity Session c1c90850
 > 依據：架構現況報告生成協議 (202601282230)
 
 ---
