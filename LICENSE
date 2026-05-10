@@ -1,0 +1,216 @@
+---
+title: "Saki Studio 版權聲明與使用條款"
+date: 2025-02-29
+description: "Saki Studio 軟體授權、版權聲明與免責條款。"
+---
+
+# Saki Studio 版權聲明 (Copyright & License)
+
+**最後更新日期：2026-02-03**
+
+> **此授權由 Saki Studio 獨立開發與維護，保留所有權利。**
+
+---
+
+## 1. 版權所有 (Copyright Ownership)
+
+本授權（Saki Studio LICENSE）、相關文檔、介面設計、標誌及原始程式碼，其智慧財產權均歸屬於 **Saki Studio** (Saki-Studio.com.tw) 所有。
+
+Copyright © 2026 Saki Studio. All Rights Reserved.
+
+未經書面許可，禁止任何形式的商業轉載、販售、反向工程或修改後再發布。
+
+---
+
+## 2. 授權範圍 (License Scope)
+
+Saki Studio 授予使用者一份**非獨佔、不可轉讓、可撤銷**的有限授權，允許使用者在符合以下條件的情況下使用本軟體：
+
+*   **個人使用**：您可於個人擁有的電晶體裝置上安裝並使用本軟體。
+*   **非商業用途**：除非另有授權，本軟體僅供個人學習、研究或輔助開發使用。
+*   **禁止行為**：
+    *   不得將本軟體用於非法用途。
+    *   不得試圖破解、規避本軟體的安全機制。
+    *   不得移除本軟體中的任何版權聲明或浮水印。
+
+---
+
+## 3. 開源組件 (Open Source Components)
+
+本軟體可能包含部分開源程式碼或第三方函式庫。這些組件分別受其原始授權協議（如 MIT, Apache 2.0 等）保護。
+
+*   若您在 GitHub 上取得本專案的原始碼，請遵循該儲存庫內附之 `LICENSE` 檔案規範。
+
+---
+
+## 4. 免責聲明 (Disclaimer)
+
+**本軟體按「現狀」(AS-IS) 提供，不附帶任何明示或默示的保證。**
+
+*   Saki Studio 不保證本軟體完全無誤、不中斷，或能完全滿足您的特定需求。
+*   在任何情況下，Saki Studio 對於因使用或無法使用本軟體而導致的任何直接、間接、附帶或後果性損害（包括但不限於資料遺失、業務中斷），概不負責。
+
+---
+
+## 5. 聯絡資訊 (Contact)
+
+若您需要商業授權，或對版權聲明有任何疑問，請聯繫：
+
+*   **Email**: Saki@saki-studio.com.tw
+*   **網站**: [https://saki-studio.com.tw](https://saki-studio.com.tw)
+
+---
+
+*Saki Studio 保留隨時修改本條款之權利，修改後的條款將於發布時生效。*
+
+
+---
+title: "SakiLICENSE Legal Framework"
+date: 2026-02-03
+description: "Terms of Service, End User License Agreement (EULA), and Digital Copyright Compliance."
+---
+
+# SakiLICENSE Legal Framework & Copyright
+<div style="font-family: monospace; font-size: 0.9em; color: #888; margin-bottom: 20px;">> JURISDICTION: GLOBAL / CA_US / JP_TOKYO | STATUS: ENFORCED</div>
+
+**Effective Date: February 3, 2026**
+
+> **"Innovation thrives within the boundaries of mutual respect."**
+>
+> This document outlines the legal architecture governing the use of SakiMCP. It reflects a synthesis of rigorous intellectual property standards and the agile spirit of modern software development.
+
+---
+
+## I. Preamble: The Bay Area-Bostonian Synthesis
+
+Saki Studio, while headquartered in Taipei, operates under a global digital philosophy. We adopt a legal stance that merges **Bostonian academic rigor** (reflecting our commitment to structural integrity and copyright law) with **Bay Area innovation culture** (emphasizing rapid iteration and developer empowerment).
+
+By accessing or installing SakiMCP, you acknowledge that you are entering into a binding agreement with Saki Studio, governed by the principles outlined herein, compliant with international copyright treaties including the **Berne Convention** and the **DMCA (Digital Millennium Copyright Act)**.
+
+---
+
+## II. Intellectual Property & Copyright
+
+**Proprietorship**
+The SakiLICENSE software suite, including its source code, compiled binaries, visual interface (UI/UX), and documentation, is the exclusive intellectual property of **Saki Studio** (Saki-tw).
+
+**Copyright © 2026 Saki Studio. All Rights Reserved.**
+
+**Prohibitions**
+Without explicit written consent from Saki Studio, the following actions are strictly prohibited:
+1.  **Commercial Redistribution**: Selling, leasing, or sub-licensing the software.
+2.  **Reverse Engineering**: Decompiling, disassembling, or attempting to derive the source code from the compiled application, except where expressly permitted by applicable law for interoperability.
+3.  **Attribution Removal**: Altering or removing any copyright notices, proprietary legends, or watermarks.
+
+---
+
+## III. End User License Agreement (EULA)
+
+Saki Studio grants you a **personal, non-exclusive, non-transferable, revocable license** to use SakiMCP, subject to the following constraints:
+
+*   **Scope of Use**: This license is intended for personal, educational, or internal business research purposes.
+*   **Fair Use & DMCA**: We respect the "Fair Use" doctrine. Users may utilize SakiMCP to index and analyze their own codebases or codebases they have a legal right to access. Saki Studio is not responsible for any copyright infringement committed by the user through the indexing of unauthorized content.
+
+---
+
+## IV. Disclaimer of Warranties ("AS-IS")
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.**
+
+Reflecting the standard liability limitations found in the **MIT License** and **Silicon Valley best practices**:
+Saki Studio disclaims all warranties, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+**Limitation of Liability**
+In no event shall Saki Studio be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software. This includes, but is not limited to, data loss, system instability, or interruption of business operations.
+
+---
+
+## V. Open Source Compliance
+
+SakiMCP incorporates components from the open-source community. We strictly adhere to their respective licenses (e.g., Apache 2.0, MIT).
+*   For a full list of attributions and third-party licenses, please refer to the `CREDITS` file within the application bundle or our GitHub repository.
+*   In the event of a conflict between this EULA and an Open Source License, the Open Source License shall prevail with respect to that specific component.
+
+---
+
+## VI. Contact & Legal Notices
+
+For inquiries regarding commercial licensing, DMCA takedown requests, or legal clarifications, please direct correspondence to:
+
+*   **Legal Dept**: Saki@saki-studio.com.tw
+*   **Web**: [https://saki-studio.com.tw](https://saki-studio.com.tw)
+
+*Saki Studio reserves the right to amend these terms. Continued use of the software constitutes acceptance of any modifications.*
+
+
+---
+title: "SakiLICENSE 権利と誓い"
+date: 2026-02-03
+description: "著作権表示、利用規約、およびデジタル社会における紳士協定。"
+---
+
+# SakiLICENSE：権利と誓い (Rights & Vows)
+<div style="font-family: 'Hiragino Mincho ProN', serif; font-size: 0.9em; color: #888; margin-bottom: 20px;">> JURISDICTION: JP_TOKYO / TAIPEI | SPIRIT: 雅 (MIYABI)</div>
+
+**最終更新日：2026年2月3日**
+
+> **「著作権という名の花園で、Saki Studioが紡いだコードの詩（うた）を守るために。」**
+>
+> 以下の条文は、法的な拘束力を持つ契約であると同時に、制作者と使用者の間で交わされる、静かなる約束事です。
+
+---
+
+## Ⅰ. 序文：東京の詩的なる厳格さ
+
+Saki Studioは、テクノロジーの最先端を走りながらも、古き良き「ものづくり」への敬意を忘れません。私たちは、コードの一行一行に魂が宿ると信じています。
+
+この文書は、日本の著作権法（著作権法）および国際的な知的財産権条約に基づき、SakiMCPという作品を愛するすべての皆様へ、その利用のルールを**「東京の詩社（ポエトリーサークル）の少女」**のような丁寧さで、しかし**「法廷の弁護士」**のような厳格さをもってお伝えするものです。
+
+---
+
+## Ⅱ. 知的財産権について (Intellectual Property)
+
+**所有の所在**
+SakiLICENSEを構成するすべての要素——ソースコードという名の脚本、UIという名の舞台装置、ドキュメントという名の台本——は、**Saki Studio** (Saki-tw) の排他的な財産です。
+
+**Copyright © 2026 Saki Studio. All Rights Reserved.**
+
+**禁じられた遊び**
+書面による特別な許諾なき限り、以下の行為は固くお断りいたします（それは、詩人のノートを勝手に書き換えるような無粋な行為です）：
+1.  **営利目的の再配布**：本ソフトウェアを販売、貸与、またはサブライセンスすること。
+2.  **リバースエンジニアリング**：コンパイルされたバイナリを解読し、その秘められた構造を暴くこと。
+3.  **署名の抹消**：著作権表示や透かしを削除し、作者の痕跡を消し去ること。
+
+---
+
+## Ⅲ. 使用許諾契約 (EULA)
+
+私たちは貴方に対し、SakiLICENSEを使用するための**非独占的かつ譲渡不能なライセンス**を付与します。これは信頼に基づく貸与であり、所有権の移転ではありません。
+
+*   **利用の範囲**：個人の探求、学習、あるいは研究のために、貴方のDiveceデバイス上で自由にお使いください。
+*   **フェアユースと責任**：SakiLICENSEは強力な検索ツールですが、それをどう使うかは貴方の良心に委ねられています。他者の権利を侵害するコードの収集に本ツールを使用した場合、その責任は貴方自身が負うものとします。
+
+---
+
+## Ⅳ. 免責事項 (Disclaimer)
+
+**本ソフトウェアは「現状有姿 (AS-IS)」で提供されます。**
+
+季節が移ろうように、ソフトウェアもまた不完全なものです。
+Saki Studioは、本ソフトウェアにバグが存在しないこと、あるいは貴方の全ての期待に応えることを保証いたしません。
+
+**責任の制限**
+本ソフトウェアの使用によって生じたいかなる損害（データの喪失、業務の停止、あるいはデジタルな憂鬱）についても、Saki Studioは責任を負いかねます。どうか、大切なデータにはバックアップという保険をかけてください。
+
+---
+
+## Ⅴ. 結び (Contact)
+
+もし、私たちのコードを商業という舞台で輝かせたいとお考えの場合、あるいはこの約束事について対話を求められる場合は、以下まで文（ふみ）をお寄せください。
+
+*   **電子郵便**: Saki@saki-studio.com.tw
+*   **ウェブサイト**: [https://saki-studio.com.tw](https://saki-studio.com.tw)
+
+---
+
+*Saki Studioは、この規約を予告なく改訂する権利を留保します。それは、より良い関係を築くための更新です。*
