@@ -2,7 +2,7 @@ there~~ Saki-Chan in Github.com/Saki-tw
 
 fuck it all the people said "how" "H-O-W" how do you/your Agent/LLM to remember whatsup
 
-just one adbixere-api in Feb 5th 2026 based all the Agent Interface
+just one adbixere-api in Feb 5th 2026 based all the Agent Interface. If API is lose, you have skill to build again for any agent interface.
 
 noob.
 
